@@ -13,6 +13,4 @@ class Authorization {
     public void setTokenKey(String tokenKey) {
         this.tokenKey = tokenKey;
     }
-
-
 }

@@ -6,9 +6,9 @@ class CountryDetails {
     @SerializedName("name")
     private String name;
     @SerializedName("exam")
-    private Boolean exam;
+    private boolean exam;
     @SerializedName("college")
-    private Boolean college;
+    private boolean college;
 
     public String getName() {
         return name;
