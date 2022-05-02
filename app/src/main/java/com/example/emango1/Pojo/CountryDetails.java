@@ -1,8 +1,8 @@
-package com.example.emango1;
+package com.example.emango1.Pojo;
 
 import com.google.gson.annotations.SerializedName;
 
-class CountryDetails {
+public class CountryDetails {
     @SerializedName("name")
     private String name;
     @SerializedName("exam")
